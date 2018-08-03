@@ -1,9 +1,9 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
-
+var myName = "Tiffany Z";
 // CODE HERE
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
-
+var faveNum = 3;
 // CODE HERE
 
 // #3 create a variable called 'lovesCode' and set it to true
